@@ -1,0 +1,21 @@
+{
+  "name": "FBS Flooring",
+  "headline": "Expert fitting.\nA home that feels\nfinished.",
+  "intro": "Flooring consultation, measuring and professional fitting. From your first ideas to the final details, we help you plan your project with confidence.",
+  "phone": "+353 83 044 1400",
+  "email": "info@fbsflooring.ie",
+  "address": "Unit J2, Malahide Road Industrial Estate, Coolock, Dublin 17 · D17 FR58",
+  "owner": "Ilir Sulaj",
+  "announcement": "Flooring services · Free home consultations",
+  "services": [
+    {"slug":"home-consultation","title":"Free home consultation","short":"Good advice starts at home.","summary":"Talk through your rooms, get measurements and discuss your plans with a flooring specialist.","image":"consultation","intro":"Start with a visit to your home. FBS works with fitting specialists to assess your space, listen to what you need and help you plan the next step.","steps":[["Your rooms, your plans","Show us the spaces you want to work on and tell us how you use them."],["Measurements & practical details","Discuss the floor area, existing surface, access and the details that may affect fitting."],["A direction for your project","Talk through your preferences, budget and timing before agreeing the work."]],"note":"The consultation is free. Fitting and any other agreed work are quoted for your project."},
+    {"slug":"floor-fitting","title":"Professional floor fitting","short":"The difference is in the details.","summary":"Discuss the installation, preparation and finishing your space needs, then agree a clear fitting scope.","image":"home","intro":"A successful installation begins before the first board is laid. FBS works with skilled fitting specialists to plan and carry out flooring projects for homes and businesses.","steps":[["Discuss the floor & space","Tell us about your flooring, rooms and any existing surface that needs to be considered."],["Agree the work","Review the fitting method, preparation, transitions and finishing details required for your project."],["Plan the fitting","Discuss access, room readiness and timing with the team before work starts."]],"note":"Please share the exact flooring specification if you already have materials. Suitability, preparation and the installation method need to be reviewed before fitting is agreed."},
+    {"slug":"new-homes-renovations","title":"New homes & renovations","short":"A fresh start, thoughtfully planned.","summary":"Coordinate the flooring stage around your move, renovation and the other work happening in your home.","image":"hero","intro":"Moving into a new home or changing the way an existing room feels? FBS’s services include planning and fitting for new-home and renovation projects.","steps":[["Bring your floor plan","Share the rooms, approximate area and planned handover or renovation dates."],["Review the sequence","Discuss the existing surface and what other work needs to happen around the fitting stage."],["Agree the next step","Confirm the project scope and timing with FBS before arranging work."]],"note":"A planned move-in date is a useful starting point. Installation dates are agreed with FBS after the space and requirements have been reviewed."}
+  ],
+  "sources": [
+    {"url":"https://fbsflooring.ie/services/","facts":"Free home consultations, fitting specialists, home assessment, measurements, tailored advice, new-home projects."},
+    {"url":"https://fbsflooring.ie/about-us/","facts":"Owner Ilir Sulaj, professional installation, residential and commercial projects."},
+    {"url":"https://fbsflooring.ie/contact-us/","facts":"Public business contact address, telephone and email; no opening hours assumed."},
+    {"source":"User correction, 6 October 2026","facts":"Current business model is services only. No flooring sales, retail catalogue, prices or product ordering."}
+  ]
+}

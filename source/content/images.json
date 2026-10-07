@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "src": "/assets/hero.webp",
+    "source": "https://fbsflooring.ie/wp-content/uploads/2025/04/img_L27J-HORN-JOINT_Oak_Robust_Natural_Herringbone_Lifestyle3_.jpg",
+    "context": "Imagery published on the FBS website; illustrative, not verified completed work."
+  },
+  "kitchen": {
+    "src": "/assets/kitchen.webp",
+    "source": "https://fbsflooring.ie/wp-content/uploads/2025/04/img_L27J-HORN-JOINT_Oak_Robust_Natural_Herringbone_Lifestyle2_.jpg",
+    "context": "Imagery published on the FBS website; illustrative, not verified completed work."
+  },
+  "fitting": {
+    "src": "/assets/fitting.webp",
+    "source": "https://fbsflooring.ie/wp-content/uploads/2025/12/ezgif-7850ab7097dcaa3d-1024x576.webp",
+    "context": "Imagery published on the FBS website; illustrative, not verified completed work."
+  },
+  "consultation": {
+    "src": "/assets/consultation.webp",
+    "source": "https://fbsflooring.ie/wp-content/uploads/2025/09/Redefine-Your-Living-Space-with-Oak-Engineered-Wood-Flooring-1024x683.jpg",
+    "context": "Imagery published on the FBS website; illustrative, not verified completed work."
+  },
+  "home": {
+    "src": "/assets/home.webp",
+    "source": "https://fbsflooring.ie/wp-content/uploads/2025/08/ezgif-16ba0cb410badc-e1756647366225-1024x548.webp",
+    "context": "Imagery published on the FBS website; illustrative, not verified completed work."
+  },
+  "preparation": {
+    "src": "/assets/preparation.webp",
+    "source": "https://fbsflooring.ie/wp-content/uploads/2026/06/03436ceb-c7da-4d49-9e30-d535536c3c85-1024x576.webp",
+    "context": "Imagery published on the FBS website; illustrative, not verified completed work."
+  },
+  "subfloor": {
+    "src": "/assets/subfloor.webp",
+    "source": "https://fbsflooring.ie/wp-content/uploads/2026/01/support-floor-joists-3-1024x684.jpg",
+    "context": "Imagery published on the FBS website; illustrative, not verified completed work."
+  }
+}

@@ -1,0 +1,5 @@
+jQuery(function($){
+$('#fbs-choose-hero').on('click',function(){const frame=wp.media({title:'Choose your homepage photo',button:{text:'Use this photo'},multiple:false});frame.on('select',function(){const im=frame.state().get('selection').first().toJSON();$('#fbs-hero-id').val(im.id);$('#fbs-hero-preview').empty().append($('<img>').attr('src',im.sizes?.medium?.url||im.url).css('max-width','300px'));});frame.open();});
+$('#fbs-reset-hero').on('click',function(){$('#fbs-hero-id').val(0);$('#fbs-hero-preview').empty();});
+$('#fbs-import-content').on('click',async function(){const b=$(this),status=$('#fbs-import-status');b.prop('disabled',true);let i=0;try{while(i<=window.FBSSetup.total){const r=await $.post(window.FBSSetup.ajax,{action:'fbs_import_content',nonce:window.FBSSetup.nonce,index:i});if(!r.success)throw new Error(r.data?.message||'Import failed');status.text(`${i} / ${window.FBSSetup.total}: ${r.data.message}`);if(r.data.done)break;i++;}}catch(e){status.text('Import paused: '+e.message+'. Try again; existing content is kept.');}finally{b.prop('disabled',false);}});
+});
